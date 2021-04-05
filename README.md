@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arish82
 - 👀 I’m interested in Web Development, Coding and AI
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning React js
 - 💞️ I’m looking to collaborate on Front-End projects
 - 📫 How to reach me https://www.linkedin.com/in/md-arish-a48145160/ 
                                       OR
