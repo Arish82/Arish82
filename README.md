@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Arish🤘🏼:
 👋 Hi, I’m Md Arish<br>👀 I’m interested in Web Dev, ML & AI, DSA<br>🌱 I’m a MERN Developer<br>💞️ I’m looking to collaborate on MERN projects<br>📫 How to reach me https://in.linkedin.com/in/arish82 OR arish123.ahamad@gmail.com
 
 
